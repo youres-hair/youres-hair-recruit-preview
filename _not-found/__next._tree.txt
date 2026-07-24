@@ -1,2 +1,2 @@
-:HL["/youres-hair-recruit-preview/_next/static/chunks/00nzzny1_zg_c.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"mlX_d_xvDkUNANNl4WZcD"}
+:HL["/youres-hair-recruit-preview/_next/static/chunks/0j2~byif~7r89.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Ev6-ZDHdd1V7ntTPAwKu3"}
