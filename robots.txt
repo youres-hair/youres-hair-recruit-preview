@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 
 Host: https://youres-hair.github.io
-Sitemap: https://youres-hair.github.io/youres-hair-recruit-preview/sitemap.xml
+Sitemap: https://youres-hair.github.io/recruit/sitemap.xml
